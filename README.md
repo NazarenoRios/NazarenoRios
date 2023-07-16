@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/nazareno-rios/" rel="nofollow">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" data-canonical-src="https://cdn.simpleicons.org/linkedin" style="max-width: 100%;"></a>
   <a href="https://wa.me/+5492216567792" rel="nofollow">
-    <img alt="npm" title="npm" height="48" width="48" src="https://i.imgur.com/DQ9Pfub.png" data-canonical-src="https://cdn.simpleicons.org/npm" style="max-width: 100%;"></a>
+    <img alt="Whatssap" title="Whatssap" height="48" width="48" src="https://i.imgur.com/DQ9Pfub.png" data-canonical-src="https://cdn.simpleicons.org/npm" style="max-width: 100%;"></a>
 </p>
 
 <p align="center" dir="auto">
@@ -17,7 +17,7 @@
   <a href="https://www.threads.net/@peterthehan" rel="nofollow">
     <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="not all" srcset="https://camo.githubusercontent.com/f2b7f8e42754a2b97f6945e587585c210ae861e68e774d50f11e943b6e78c202/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f746872656164732f7768697465" data-canonical-src="https://cdn.simpleicons.org/threads/white" class="source-dark source-light">
-      <img alt="Instagram" title="Threads" height="48" width="48" src="https://i.imgur.com/tbY3BR0.png" data-canonical-src="https://cdn.simpleicons.org/threads" style="visibility:visible;max-width:100%;"></picture></themed-picture></a>
+      <img alt="Instagram" title="Instagram" height="48" width="48" src="https://i.imgur.com/tbY3BR0.png" data-canonical-src="https://cdn.simpleicons.org/threads" style="visibility:visible;max-width:100%;"></picture></themed-picture></a>
   <a href="https://www.youtube.com/@nan7s" rel="nofollow">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://camo.githubusercontent.com/49016b3e10a42311ae32711f44e5062f8785491e90314f276446f4010e538b7a/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f796f7574756265" data-canonical-src="https://cdn.simpleicons.org/youtube" style="max-width: 100%;"></a>
 </p>
