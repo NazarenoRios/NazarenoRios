@@ -17,7 +17,7 @@
   <a href="https://www.threads.net/@peterthehan" rel="nofollow">
     <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
       <source media="not all" srcset="https://camo.githubusercontent.com/f2b7f8e42754a2b97f6945e587585c210ae861e68e774d50f11e943b6e78c202/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f746872656164732f7768697465" data-canonical-src="https://cdn.simpleicons.org/threads/white" class="source-dark source-light">
-      <img alt="Threads" title="Threads" height="48" width="48" src="https://camo.githubusercontent.com/0983f0f17c58b1634551b0469a3b03d7b4b869aca29e9dd9f05233aef4e6ed8c/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f74687265616473" data-canonical-src="https://cdn.simpleicons.org/threads" style="visibility:visible;max-width:100%;"></picture></themed-picture></a>
+      <img alt="Threads" title="Threads" height="48" width="48" src="https://i.imgur.com/tbY3BR0.png" data-canonical-src="https://cdn.simpleicons.org/threads" style="visibility:visible;max-width:100%;"></picture></themed-picture></a>
   <a href="https://www.youtube.com/@nan7s" rel="nofollow">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://camo.githubusercontent.com/49016b3e10a42311ae32711f44e5062f8785491e90314f276446f4010e538b7a/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f796f7574756265" data-canonical-src="https://cdn.simpleicons.org/youtube" style="max-width: 100%;"></a>
 </p>
