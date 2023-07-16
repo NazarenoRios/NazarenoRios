@@ -2,11 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazareno-rios/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nazareno.rios.1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazarenorios1/)
+[![Instagram](https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667)](https://www.instagram.com/nazarenorios1/)
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nazarenorios.github.io/portfolio/)
 
-
-![NazarenoRios GitHub stats](https://github-readme-stats.vercel.app/api?username=NazarenoRios&show_icons=true&theme=tokyonight)
 
 ## My Skills
 
