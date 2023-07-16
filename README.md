@@ -1,4 +1,5 @@
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://nrios.vercel.app/"><img align="center" alt="" width="100" src="https://i.imgur.com/4FgQMp8.png" /></a>
+<div align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://nrios.vercel.app/"><img align="center" alt="" width="100" src="https://i.imgur.com/4FgQMp8.png" /></a>
+</div>
 
 <div>
     <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt=""/>
