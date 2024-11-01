@@ -6,7 +6,7 @@
       <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/fb34c11547340351f4016ff584064dfb6c7a8b5cd98dc8e040b368f61d0d79a0/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6769746875622f7768697465" data-canonical-src="https://cdn.simpleicons.org/github/white" class="source-dark">
       <img alt="GitHub" title="GitHub" height="48" width="48" color="white" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" data-canonical-src="https://cdn.simpleicons.org/github" style="visibility:visible;max-width:100%;"></picture></themed-picture></a>
   <a href="https://www.linkedin.com/in/nazareno-rios/" rel="nofollow">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" data-canonical-src="https://cdn.simpleicons.org/linkedin" style="max-width: 100%;"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" data-canonical-src="https://cdn.simpleicons.org/linkedin" style="max-width: 100%;"></a>
   <a href="https://wa.me/+5492216567792" rel="nofollow">
     <img alt="Whatssap" title="Whatssap" height="48" width="48" src="https://i.imgur.com/DQ9Pfub.png" data-canonical-src="https://cdn.simpleicons.org/npm" style="max-width: 100%;"></a>
 </p>
